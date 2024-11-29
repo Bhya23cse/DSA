@@ -13,7 +13,12 @@ int sumOfDigit(int num){
     return p;
 }
 int main(){
+    int a;
+    cout<<"Enter a number to check the sum of digit"<<endl;
+    cin>>a;
+                                                                                                                                                                   
 
-    cout<<sumOfDigit(543);
+    cout<<sumOfDigit(a);
     return 0;
 }
+
