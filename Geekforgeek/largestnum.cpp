@@ -15,8 +15,6 @@ int main()
         largest=arr[i];
        }
     }
-    
     cout << "the largest number from arr is: " << largest << endl;
-
     return 0;
 }
